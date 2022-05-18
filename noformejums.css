@@ -1,0 +1,60 @@
+h1{font-size:30px;
+text-align:center;
+color:blue;}
+
+h2{font-size:20px;
+text-align:center;
+color:rgb(220, 72, 18);}
+
+h3{font-size:20p;
+text-align:center;
+color:darkolivegreen;}
+
+.bloks 
+{display:inline-block;
+width:200px;
+height:250px;
+background-color: aquamarine;
+}
+
+h4{
+    font-size:20px;
+    text-align:center;
+    color:darkmagenta;}
+
+.kaste
+{display:inline-block;
+width:200px;
+height:180px;
+background-color:bisque;}
+
+.lielsbloks
+{display:inline-block;
+width:900px;
+height:240px;
+background-color:plum;}
+
+body{
+    background-image: url("lotuswaters1.jpg");
+}
+.mazakaste
+{display:inline-block;
+width:200px;
+height:180px;
+background-color:lightpink;}
+
+h5{
+    font-size:25px;
+    text-align:center;
+    color:darkorchid;}
+
+.velkaste
+{display:inline-block;
+width:200px;
+height:180px;
+background-color:burlywood;}
+
+h6{
+    font-size:25px;
+    text-align:center;
+    color:darkcyan;}
